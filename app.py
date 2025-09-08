@@ -14,8 +14,8 @@ logger = logging.getLogger(__name__)
 AGE, ROLE, WORK_SAMPLES, TG_LINK = range(4)
 
 # Получаем конфигурацию из переменных окружения
-BOT_TOKEN = os.getenv('BOT_TOKEN')
-ADMIN_CHAT_ID = os.getenv('ADMIN_CHAT_ID')
+BOT_TOKEN = os.getenv(8203079776:AAG_USH_fnsxFStBChpEkR9plsLBpMp_2jQ)
+ADMIN_CHAT_ID = os.getenv(5009120278)
 
 # Клавиатура для выбора роли
 role_keyboard = [
